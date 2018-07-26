@@ -1,0 +1,6 @@
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\bin\Debug\Snake-cmd.exe.config
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\bin\Debug\Snake-cmd.exe
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\bin\Debug\Snake-cmd.pdb
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\obj\Debug\Snake-cmd.csproj.CoreCompileInputs.cache
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\obj\Debug\Snake-cmd.exe
+C:\Users\UserRemap\l.durand\source\repos\Snake-cmd\Snake-cmd\obj\Debug\Snake-cmd.pdb
