@@ -9,3 +9,5 @@ Déroulement d'une partie de snake :
     * La partie se termine lorsque le serpent touche un bord de l'écran où sa propre queue
 
 _Développé en C++_
+
+**Développé par Aiola13**
