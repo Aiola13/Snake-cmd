@@ -8,3 +8,5 @@ liste de fonctionnalités
 -
 
 langage utilisé
+
+credit
