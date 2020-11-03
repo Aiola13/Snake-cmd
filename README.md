@@ -11,3 +11,7 @@ Projet personnel représentant le célèbre jeu Snake sur Nokia, ici développer
 
 ## Langage
 C#
+
+## Crédit 
+
+Merci à moi même ! ❤
