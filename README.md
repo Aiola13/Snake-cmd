@@ -8,3 +8,7 @@ La réinvention du célèbre jeu snake !
 
     - Jouer à Snake manuellement
     - Jouer à Snake automatiquement
+
+## Langage
+
+C#
