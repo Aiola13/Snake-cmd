@@ -12,3 +12,7 @@ La réinvention du célèbre jeu snake !
 ## Langage
 
 C#
+
+## Crédit
+
+Thx to Aiola
