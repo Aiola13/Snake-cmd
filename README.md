@@ -1,1 +1,1 @@
-# Snake-cmd
+# Snake en ligne de commande
