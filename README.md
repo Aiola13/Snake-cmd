@@ -12,3 +12,6 @@ serpent qui ce mord la queue
 nan je déconne !! :D
 serpect qui grossi d'un pixel a chaque fois qu'il mange un fruit
 le but le faire grossir le plus possible sans qu'il ne ce mange lui même
+avec fonctionnalité haut bas gauche droite sans possibilité d'arret
+
+Comme dis précédement on utilisera un language C#
