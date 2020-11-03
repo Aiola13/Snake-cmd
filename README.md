@@ -13,3 +13,5 @@ C'est un snake.
 Le language utilisé pour ce projet est le **C#**
 
 
+*Développé par **Loic Durand***
+*Création de ce magnifique README.md par **Jérémy Vivié***
