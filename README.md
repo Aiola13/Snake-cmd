@@ -1,1 +1,6 @@
-# Programme Snake sur terminal cmd 
+# Projet Snake sur terminal cmd 
+## Présentation du projet : 
+C'est un snake. 
+
+
+
