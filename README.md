@@ -8,3 +8,7 @@ Projet du jeu snake revisité sur ordinateur en c#.
 
 - jouer au snake manuellement
 - jouer au snake automatiquement (contrôle par ordinateur)
+
+## Langage
+
+C#
