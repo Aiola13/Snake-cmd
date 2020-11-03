@@ -6,3 +6,5 @@ présentation du projet
 liste de fonctionnalités 
 -
 -
+
+langage utilisé
