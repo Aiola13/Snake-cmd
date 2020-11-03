@@ -8,3 +8,6 @@ Projet personnel représentant le célèbre jeu Snake sur Nokia, ici développer
 
     - Jouer au Snake manuellement
     - Jouer au Snake automatiquement (controller par l'ordinateur)
+
+## Langage
+C#
