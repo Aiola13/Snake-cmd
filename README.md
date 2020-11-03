@@ -3,3 +3,5 @@
 une petite description pour mon adorable projet github
 la creation dun snake 😍😍 whaou 
 le projet sera fait en javascript quel bijou
+### credit
+les membres de la formation 😂
