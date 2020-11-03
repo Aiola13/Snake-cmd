@@ -2,15 +2,16 @@
 
 ## Présentation du projet
 
-Projet du jeu snake revisité sur ordinateur en c#.
+Projet personnel représentant le célèbre jeu Snake sur Nokia, ici développer en C#.
 
-## fonctionnalités
+## Fonctionnalités
 
-- jouer au snake manuellement
-- jouer au snake automatiquement (contrôle par ordinateur)
+    - Jouer au Snake manuellement
+    - Jouer au Snake automatiquement (controller par l'ordinateur)
 
 ## Langage
-
 C#
 
-merci a tous 
+## Crédit 
+
+Merci à moi même ! ❤
