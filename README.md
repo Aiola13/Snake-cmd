@@ -10,3 +10,6 @@ C'est un snake.
 * Fleche de gauche pour aller à gauche 
 
 
+Le language utilisé pour ce projet est le **C#**
+
+
