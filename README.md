@@ -15,3 +15,6 @@ le but le faire grossir le plus possible sans qu'il ne ce mange lui même
 avec fonctionnalité haut bas gauche droite sans possibilité d'arret
 
 Comme dis précédement on utilisera un language C#
+
+Un crédit a 1.8% ? LOL on rigole
+Crédit a notre formateur qui déchire et a asu parce que je suis trop fort
