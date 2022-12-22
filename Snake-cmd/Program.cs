@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Threading;
 
 namespace ConsoleApp15
@@ -119,19 +116,6 @@ namespace ConsoleApp15
         {
             List<Point> LastPos = new List<Point>();
 
-            /* if (Console.KeyAvailable)
-             {
-                 ConsoleKeyInfo key = Console.ReadKey();
-                 if (key.Key.Equals(ConsoleKey.UpArrow))
-                     currentKey = "Up";
-                 if (key.Key.Equals(ConsoleKey.DownArrow))
-                     currentKey = "Down";
-                 if (key.Key.Equals(ConsoleKey.LeftArrow))
-                     currentKey = "Left";
-                 if (key.Key.Equals(ConsoleKey.RightArrow))
-                     currentKey = "Right";
-             }*/
-
             foreach (Point i in lp)
                 LastPos.Add(new Point(i.x, i.y));
 
@@ -157,7 +141,6 @@ namespace ConsoleApp15
 
         public Point GetPosition()
         {
-            //Point _p = new Point(Console.CursorTop, Console.CursorLeft);
             Point _p = new Point(lp[0].x, lp[0].y);
             return _p;
         }
